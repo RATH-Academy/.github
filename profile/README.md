@@ -1,7 +1,7 @@
 # Welcome to RATH Academy 🧬🤖
 
 <p align="center">
-  <img src="https://example.com/rath_logo.png" alt="RATH Academy Logo" width="300px">
+  <img src="https://avatars.githubusercontent.com/u/188672368?s=400&u=bdd7c5e01d8ed7846b7e7a5617ce6881e7ffa2ee&v=4" alt="RATH Academy Logo" width="300px">
 </p>
 
 ---
