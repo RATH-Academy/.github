@@ -1,9 +1,5 @@
 # RATH Academy: Pioneering Biomimetic AI Research 🌿
 
-<div align="center">
-  <img src="https://example.com/rath-academy-logo.png" alt="RATH Academy Logo" width="200"/>
-</div>
-
 ## **Welcome to RATH Academy's GitHub Organization!** 🚀
 
 At **RATH Academy**, we are dedicated to pushing the boundaries of artificial intelligence through the lens of **biomimicry**. Our mission is to harness the elegance and efficiency of nature's designs to innovate and advance AI technologies.
