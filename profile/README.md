@@ -1,4 +1,4 @@
-# Welcome to RATH Academy 🧬🤖
+# RATH Academy 🧬🤖
 ---
 
 ## About Us
